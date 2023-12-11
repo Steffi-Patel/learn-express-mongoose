@@ -7,3 +7,6 @@ export default function ViewAuthor({handleContent}) {
         <button onClick={handleViewAuthors}> View Authors </button>
     )
 }
+
+
+
